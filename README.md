@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about extracting meaningful insight
 - **Data Visualization:** Creating insightful visualizations using tools like matplotlib, seaborn.
 - **SQL:** Proficient in querying and analyzing data using SQL.
 - **Programming:** Python.
-- **Tools:**Excel,PowerBI,Tableau.
+- **Tools:** Excel,PowerBI,Tableau.
 
 <!--
 ## 📈 Projects
