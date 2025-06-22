@@ -42,7 +42,7 @@ I'm always looking to expand my skills. Currently, I'm learning:
 ## 📫 Let's Connect
 
 - **LinkedIn:** www.linkedin.com/in/raosmaheswar
-- **Email:** raosmaheswar@gmail.com
+- **Email:** raosmaheswar.analyst@gmail.com
 - **kaggle:** www.kaggle.com/smaheswarrao
 
 I'm open to  discussions, and new opportunities. Let's connect and discuss all things data!
