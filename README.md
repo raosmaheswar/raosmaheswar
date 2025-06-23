@@ -34,10 +34,12 @@ Feel free to explore these projects to see my data analysis skills in action!
 
 ## 🌱 Learning
 
-I'm always looking to expand my skills. Currently, I'm learning:
+Currently Learning & Exploring:
 
-- Web Scrapping
-- python libraries
+- Web scraping techniques for data extraction and automation
+- Advanced Python libraries for data analysis and visualization (e.g., Pandas, NumPy, Matplotlib, Seaborn)
+- AWS cloud services for data storage, processing, and analytics
+- Practical applications of AWS in building scalable data analytics solutions
 
 ## 📫 Let's Connect
 
