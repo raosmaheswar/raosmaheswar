@@ -1,5 +1,5 @@
 ### Hi there 👋  
-# I'm S Maheswar Rao — Aspiring Data Analyst | AWS re/Start Certified ☁️📊
+# I'm S Maheswar Rao — Aspiring Data Analyst 
 
 Welcome to my GitHub! I’m passionate about transforming raw data into actionable insights and building end-to-end analytical solutions using both traditional and cloud tools.  
 
