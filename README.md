@@ -3,7 +3,6 @@
 
 Welcome to my GitHub! I’m passionate about transforming raw data into actionable insights and building end-to-end analytical solutions using both traditional and cloud tools.  
 
----
 
 ## 🧑‍💻 About Me
 
@@ -11,14 +10,12 @@ Welcome to my GitHub! I’m passionate about transforming raw data into actionab
 - 💼 Experience as a Graduate Trainee (MIS Analyst) at NALCO  
 - ☁️ AWS re/Start Graduate — hands-on with S3, EC2, IAM, Glue, Athena, QuickSight  
 - 📊 Skilled in creating dashboards, automating reports, and building ETL pipelines  
-- 🚀 Constantly upskilling in cloud analytics, advanced SQL, and visualization
-
----
+- 🚀 Constantly upskilling in cloud analytics, advanced SQL, and visualisation
 
 ## 🛠️ Core Skills & Tools
 
 - **Languages & Data Handling:** SQL (MySQL), Python (Pandas, NumPy)  
-- **Visualization & Reporting:** Power BI (DAX, Power Query), Excel (PivotTables, VLOOKUP)  
+- **Visualisation & Reporting:** Power BI (DAX, Power Query), Excel (PivotTables, VLOOKUP)  
 - **Cloud Analytics:** AWS (S3, Glue, Athena, QuickSight, EC2, IAM)  
 - **ETL & Automation:** Data Cleaning, Preprocessing, and Cloud-based Pipelines
 
@@ -28,7 +25,6 @@ Welcome to my GitHub! I’m passionate about transforming raw data into actionab
 - 🧠 Data Analytics Essentials – *Cisco*  
 - 🧮 SQL Certificate – *HackerRank*  
 - 📄 Graduate Apprenticeship – *MHRD, Govt. of India*
-
 
 
 ## 🌱 Currently Learning
