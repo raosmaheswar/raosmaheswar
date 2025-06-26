@@ -19,14 +19,6 @@ Welcome to my GitHub! I’m passionate about transforming raw data into actionab
 - **Cloud Analytics:** AWS (S3, Glue, Athena, QuickSight, EC2, IAM)  
 - **ETL & Automation:** Data Cleaning, Preprocessing, and Cloud-based Pipelines
 
-## 📜 Certifications
-
-- 🏆 AWS re/Start Graduate – *Amazon Web Services*  
-- 🧠 Data Analytics Essentials – *Cisco*  
-- 🧮 SQL Certificate – *HackerRank*  
-- 📄 Graduate Apprenticeship – *MHRD, Govt. of India*
-
-
 ## 🌱 Currently Learning
 
 - Web scraping and data collection automation  
